@@ -2,7 +2,7 @@
 
 **`Digital Craftswoman - SRE | Writer | Creator`**
 
-I’m a Site Reliability Engineer and content creator documenting my serial learning. My projects are built using SRE and DevOps methodologies with viable resources to efficiently solve real world problems. 
+I’m an experienced IT Professional strenghening my skills in Site Reliability Engineering and DevOps. My projects are built using SRE and DevOps methodologies with viable resources to efficiently solve real world problems with code. I am a writer, content creator, and owner of The Serial Learner - Tech where I'm documenting my journey and contributing to "Learning in Public".  
 
    <p align="left">
       <a href="https://www.youtube.com/@theseriallearner-tech">
@@ -36,7 +36,7 @@ Disclaimer: This image was created with AI.
 
 <details>
    <summary><h3> 🐛 My Journey from Tech Support to SRE  </summary>
-      I started my IT career working as a IT Support contractor for Apple, Inc. I quickly feel in love with problem solving. 
+      I started my IT career working as an IT Support Specialist Contractor for Apple, Inc. in 2018. I quickly feel in love with problem solving and learning the intricacies of how technology works. That lead me to completing a 3 month long full time bootcamp in 2020 with the goal of becoming CompTIA A+ certified. After completion, my eyes widen to the possibilities the Tech industry had to offer. I've worked in a few roles that offered the most learning potential - from both private and public sectors. My superpower always lead me to positions providing customer-facing support as I derive great pleasure from helping non-technical people. However, I never found myself in a role dynamic enough to utilize the broad range of skills I've acquired. That is until I stumbled upon Site Reliability Engineering - introduced to me by a Senior SRE. Now I spend my days honing my skillset under the direction of Senior SREs and building resilient systems using code. 
 </details>
 
 
