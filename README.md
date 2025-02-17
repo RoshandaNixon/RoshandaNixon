@@ -28,4 +28,10 @@ I’m a Site Reliability Engineer and content creator documenting my serial lear
 
 ### What I'm Currently Working On
 
+#
+<details>
+   <summary><h3>My SRE Journey</summary>
+      I started my IT career working as a IT Support contractor for Apple, Inc. I quickly feel in love with problem solving. 
+</details>
+
 
