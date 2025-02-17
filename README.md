@@ -12,7 +12,7 @@ I’m a Site Reliability Engineer and content creator documenting my serial lear
 
 ---
 
-### 👛 Languages and Tools
+### 🎒 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
@@ -25,23 +25,17 @@ I’m a Site Reliability Engineer and content creator documenting my serial lear
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
 
-#
-
-<details>
-   <summary><h3> 🐛 My Journey from Tech Support to SRE  </summary>
-      I started my IT career working as a IT Support contractor for Apple, Inc. I quickly feel in love with problem solving. 
-</details>
 
 #
 
-## Current Project - 02/17/25 Last Updated
+### 📌 Current Project - 02/17/25 Last Updated
+**Implement Automation using Python Programming with AWS Serverless and Boto3**
 
-### Implement Automation using Python Programming with AWS Serverless and Boto3 
 ![Python Automation with AWS](https://github.com/user-attachments/assets/21381ccf-8fcc-4b50-9d32-c2ff5323cda2)
 Disclaimer: This image was created with AI.
 
 <details>
-   <summary><h3> 🌿 My SRE Journey</summary>
+   <summary><h3> 🐛 My Journey from Tech Support to SRE  </summary>
       I started my IT career working as a IT Support contractor for Apple, Inc. I quickly feel in love with problem solving. 
 </details>
 
