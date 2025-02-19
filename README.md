@@ -2,7 +2,7 @@
 
 **`Digital Craftswoman - SRE | Writer | Creator`**
 
-I’m an experienced IT Professional strenghening my skills in Site Reliability Engineering and DevOps. My projects are built using SRE and DevOps methodologies with viable resources to efficiently solve real world problems with code. I am a writer, content creator, and owner of The Serial Learner - Tech where I'm documenting my journey and contributing to "Learning in Public".  
+I'm an experienced IT professional focused on strengthening my expertise in Site Reliability Engineering (SRE) and DevOps. I design and build projects using SRE and DevOps methodologies, leveraging efficient resources to solve real-world problems through code. As a writer, content creator, and owner of The Serial Learner - Tech, I document my journey and actively contribute to the 'Learning in Public' movement, sharing insights and fostering growth within the tech community.
 
    <p align="left">
       <a href="https://www.youtube.com/@theseriallearner-tech">
